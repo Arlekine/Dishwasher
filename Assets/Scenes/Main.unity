@@ -3373,7 +3373,7 @@ MonoBehaviour:
   _gridWidth: 4
   _gridHeight: 1
   _isCompatibleWithDishwasher: 0
-  _dishwaherRotation: {x: 0, y: 0, z: 90}
+  _dishwaherRotation: {x: -30, y: 0, z: 90}
   _rotationTime: 0.15
   _returningTime: 0.5
   _maxFreeSpeed: 3
